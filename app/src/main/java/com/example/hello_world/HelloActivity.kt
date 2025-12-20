@@ -1,5 +1,6 @@
 package com.example.hello_world
 
+//This by kotlin so we can change in Manifest and we can also use by kotlin 
 import android.os.Bundle
 import android.os.PersistableBundle
 import androidx.activity.ComponentActivity
