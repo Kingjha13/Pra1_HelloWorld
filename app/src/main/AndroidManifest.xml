@@ -12,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hello_world"
         tools:targetApi="31" >
+
+<!--        if you want to use koltin so change Hello_Activity to HelloActivity-->
         <activity
             android:name=".Hello_Activity"
             android:exported="true"
